@@ -1,13 +1,9 @@
-Here’s an updated and dynamic **README** file to reflect the expanded features of your **Digital Forensics Toolkit** project on GitHub:
-
----
-
 # 🔍 **Digital Forensics Toolkit**
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/digital-forensics-toolkit)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/digital-forensics-toolkit)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/digital-forensics-toolkit?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/digital-forensics-toolkit?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ranimhassine/Labview-forensics-lab)
+![GitHub contributors](https://img.shields.io/github/contributors/ranimhassine/Labview-forensics-lab)
+![GitHub stars](https://img.shields.io/github/stars/ranimhassine/Labview-forensics-lab?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ranimhassine/Labview-forensics-lab?style=social)
 
 > **"Empowering digital investigations with an intuitive, all-in-one solution."**
 
