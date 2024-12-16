@@ -8,6 +8,7 @@
 > **"Empowering digital investigations with an intuitive, all-in-one solution."**
 
 The **Digital Forensics Toolkit** is a comprehensive application built using **LabVIEW**, tailored for digital investigators, IT professionals, and students. Analyze files, generate and verify MD5 hashes, and document findings—all in a seamless, interactive environment. 🚀
+NB: download all the VIs before using the UI
 
 ---
 
